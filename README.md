@@ -1,4 +1,4 @@
-### Hi there 👋
+### Alex Bassi
 - 👨‍🎓 Student at TNV Academy as Full Stack web developer.
 
 <!--
